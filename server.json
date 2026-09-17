@@ -1,0 +1,16 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-07-09/server.json",
+  "name": "io.github.dataleadspro/seo-audit-content",
+  "description": "Full SEO audits, content analysis, and domain overviews - on-page, technical, and authority metrics as JSON.",
+  "version": "1.0.0",
+  "repository": {
+    "url": "https://github.com/DataLeadsPRO/seo-audit-content",
+    "source": "github"
+  },
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://data.dataleads.pro/mcp/seo-audit-content"
+    }
+  ]
+}
