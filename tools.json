@@ -1,0 +1,20 @@
+[
+  {
+    "name": "seo_audit",
+    "method": "POST",
+    "path": "/seo/audit",
+    "description": "V1 Seo Audit"
+  },
+  {
+    "name": "seo_content",
+    "method": "POST",
+    "path": "/seo/content",
+    "description": "V1 Seo Content"
+  },
+  {
+    "name": "domain_overview",
+    "method": "POST",
+    "path": "/domain/overview",
+    "description": "V1 Domain Overview"
+  }
+]
