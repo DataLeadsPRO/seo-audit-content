@@ -1,0 +1,3 @@
+startCommand:
+  type: 'http'
+  url: 'https://data.dataleads.pro/mcp/seo-audit-content'
